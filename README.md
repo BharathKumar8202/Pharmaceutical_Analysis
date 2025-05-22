@@ -150,5 +150,3 @@ The findings provide essential context for understanding clinical trial dynamics
 
 ---
 
-**Note:**  
-Wherever `image` is mentioned, please attach the respective reference image in your final README.
