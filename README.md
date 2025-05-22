@@ -148,5 +148,15 @@ The analysis revealed:
 
 The findings provide essential context for understanding clinical trial dynamics and health research trends in the USA.
 
+## Running the Project
+
+> This notebook is best run on [Databricks Community Edition](https://community.cloud.databricks.com/).
+
+### Steps:
+1. Upload the notebook `00787835_Task2.html`
+2. Attach to a Spark cluster
+3. Run cells in sequence
+
+
 ---
 
